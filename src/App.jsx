@@ -1,5 +1,5 @@
 import { useState, useEffect, use } from "react";
-import Card from "./card";
+import Card from "./Card";
 import Popup from "./Popup";
 import "./App.css";
 
